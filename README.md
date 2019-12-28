@@ -1,4 +1,4 @@
-# camera_setup
+# camera_setup(kinect 360)
 
 sudo apt-get install libfreenect-dev
 
